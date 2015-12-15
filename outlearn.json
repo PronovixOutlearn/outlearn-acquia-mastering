@@ -1,0 +1,60 @@
+{
+  "olpVersion" : "0.1",
+
+  "paths" : [
+    {
+      "name" : "building-modules-drupal8-part3",
+      "title" : "Building modules with Drupal 8 - Part 3",
+      "description" : "Mastering: Services, Dependency Injection, Containers, Creating and Theming elements, Front-end Libraries, Testing, Review",
+      "privacy" : "private",
+      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
+      "coverColor" : "#28a9e0",
+      "pages" : [
+        {"module" : "drupal-8-services-dependency-injection-and-service-containers"},
+        {"module" : "drupal-8-services-and-controllers"},
+        {"module" : "drupal-8-dependency-injection"},
+        {"module" : "drupal-8-dependency-injection-summary"},
+        {"module" : "drupal-8-creating-elements-theming-elements-and-managing-frontend-libraries"},
+        {"module" : "drupal-8-twig"},
+        {"module" : "drupal-8-adding-javascript-css-libraries-components"},
+        {"module" : "drupal-8-advanced-render-array-patterns"},
+        {"module" : "drupal-8-patterns-overview"},
+        {"module" : "drupal-8-theme-lab"},
+        {"module" : "drupal-8-unit-and-functional-testing"},
+        {"module" : "drupal-8-unit-testing"},
+        {"module" : "drupal-8-functional-tests"},
+        {"module" : "drupal-8-phpunit-doubles-mocks-stubs"},
+        {"module" : "drupal-8-review-dependency-injection"},
+        {"module" : "drupal-8-dependency-injection-and-services"},
+        {"module" : "drupal-8-dependency-injection-and-controllers"},
+        {"module" : "drupal-8-dependency-injection-and-plugins"},
+        {"module" : "drupal-8-phpstorm-strategies"}
+      ]
+    }
+  ],
+
+  "modules" : [
+    {"olm" : "./modules/drupal-8-services-dependency-injection-and-service-containers.md"},
+    {"olm" : "./modules/drupal-8-services-and-controllers.md"},
+    {"olm" : "./modules/drupal-8-dependency-injection.md"},
+    {"olm" : "./modules/drupal-8-dependency-injection-summary.md"},
+    {"olm" : "./modules/drupal-8-creating-elements-theming-elements-and-managing-frontend-libraries.md"},
+    {"olm" : "./modules/drupal-8-twig.md"},
+    {"olm" : "./modules/drupal-8-adding-javascript-css-libraries-components.md"},
+    {"olm" : "./modules/drupal-8-advanced-render-array-patterns.md"},
+    {"olm" : "./modules/drupal-8-patterns-overview.md"},
+    {"olm" : "./modules/drupal-8-theme-lab.md"},
+    {"olm" : "./modules/drupal-8-unit-and-functional-testing.md"},
+    {"olm" : "./modules/drupal-8-unit-testing.md"},
+    {"olm" : "./modules/drupal-8-functional-tests.md"},
+    {"olm" : "./modules/drupal-8-phpunit-doubles-mocks-stubs.md"},
+    {"olm" : "./modules/drupal-8-review-dependency-injection.md"},
+    {"olm" : "./modules/drupal-8-dependency-injection-and-services.md"},
+    {"olm" : "./modules/drupal-8-dependency-injection-and-controllers.md"},
+    {"olm" : "./modules/drupal-8-dependency-injection-and-plugins.md"},
+    {"olm" : "./modules/drupal-8-phpstorm-strategies.md"}
+  ],
+
+  "assets" : [
+  ]
+}
